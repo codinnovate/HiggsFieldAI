@@ -1,6 +1,26 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_motion/d89d25c5-1ae7-48f8-9239-165b6d3b63c4.mp4",
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/b6f86a29-0c4a-4023-823d-b18f27e2967d.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/18e0f7bd-0d46-46a8-8653-427662ffd74d.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/90d51efe-c3d2-47d4-a5ec-1ef5b6efc97b.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/36076f30-598d-4b42-a685-6ecb98aaeced.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/0bdb004a-5764-4a51-955b-010f856adc87.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/3ae2142f-f4ab-496f-afcd-2de33bee5552.mp4",
     "prompt": ""
   }
 ]

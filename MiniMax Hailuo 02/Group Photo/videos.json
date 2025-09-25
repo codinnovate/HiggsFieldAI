@@ -1,6 +1,34 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_motion/6e04a75a-3024-48eb-8ecb-71ca6778c7c2.mp4",
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/f141d468-eb99-4cea-aeaf-a664f187c477.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/c25eba99-a462-4fd8-85bf-4826eb049ac5.mp4",
     "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/fe627e5f-0cfa-497d-8424-63fe9bd76c7f.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/36d51161-2ba3-4ab2-ae3b-b18875b0e327.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/d6c8cb70-04af-440a-9ad2-d6b33fe3fe3f.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/bf00294e-7908-4972-82a6-208165c9a3ab.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/7165cd23-f5a0-4c38-a666-1a02521f1b0c.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/b6aacf8c-9a90-46bc-8ed9-d00c43ed613e.mp4",
+    "prompt": null
   }
 ]

@@ -1,6 +1,42 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_motion/58e551dd-0254-4f54-b1c7-77583f18e81f.mp4",
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/76efa7a6-9014-417d-88c1-8806cfdcc223.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/8540052d-778a-4454-8d11-d9a0df6d7ea7.mp4",
+    "prompt": "A dramatic portrait of a racing driver standing resolutely in full gear, the black background softly transitioning to a deep charcoal gray that embraces the scene with quiet solemnity. Within the sharp silhouette of their helmet and racing suit, a tranquil desert night landscape is revealed: luminous stars shimmer across the clear sky, casting a gentle glow that integrates with the reflective surfaces of the helmet and suit. Rolling sand dunes ripple gently across their torso and arms, merging with the creases and folds of their racing gear. Subtle, slow breathing causes the faintest movement in the dunes, while the soft shimmer of stars flickers across the visor. The cold interplay of artificial suit lighting blends with the warm, natural hues of the desert night inside the silhouette, creating a surreal yet calm tension. Camera slowly sways side to side, enhancing the dreamlike atmosphere and contemplative solitude of this fusion between human determination and vast, silent nature."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/b8887506-32df-4a8f-9910-936d954ea2b2.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/7c7109c5-7866-4637-812d-858827a2f6eb.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/07bd7c03-af44-4bdc-9ed2-a52b87c875f1.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/cdc81d90-225b-4387-a526-168c410a668a.mp4",
+    "prompt": "the scene shifts to double exposure, blending the man's silhouette with the scary war scene"
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/97ffd8ef-925c-4110-bd49-631335061b69.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1.mp4",
+    "prompt": "the scene shifts to double exposure, blending the woman's silhouette with the scary scene"
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/1e0d74d1-23c1-4399-9a37-eb552e886326.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/7374f461-e073-4e34-868d-edd0735717ba.mp4",
     "prompt": ""
   }
 ]

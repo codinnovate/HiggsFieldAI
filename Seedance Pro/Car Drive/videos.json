@@ -1,6 +1,50 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/seedance_motion/a06e3951-e827-471f-8bd3-5597ebee4ffa.mp4",
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/bdafb017-9899-4279-94ae-b3882676f85e.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/eeb0ca5b-64d3-46ba-8ad0-f8968460e693.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/f85c5bd5-7457-4808-bc07-2477c47788a7.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/a4c4d131-92c5-457c-8c52-115a6ed061ad.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/2abe02a7-e44e-40b1-b48a-2a67c090af71.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/549a6b5e-bb61-4b2c-92fc-d42de0ce74d0.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/481ae785-2650-48d4-9e91-d73e88a68885.mp4",
+    "prompt": null
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/eb881d0e-4c1f-4bae-a98d-659e13889833.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/0277440a-6a77-4c76-b2bc-e9640ed91a4f.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/d0c6502e-3487-40af-b02e-f82e43a8194c.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/1dbc6818-0d09-46cd-bcc7-32e4389a5f87.mp4",
+    "prompt": ""
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/seedance_sample/85d2df44-623b-48bf-9e33-9f1c45625c8e.mp4",
     "prompt": ""
   }
 ]
