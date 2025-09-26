@@ -18,16 +18,12 @@ Low count subcategories: 10
 
 CATEGORY: Action Movements
 Total subcategories: 21
-Low count subcategories: 15
+Low count subcategories: 11
 ----------------------------------------
   • Baseball Kick (Count: 0)
   • Boxing (Count: 0)
   • Catwalk (Count: 0)
   • Downhill POV (Count: 0)
-  • Fast Sprint (Count: 1)
-  • Flip (Count: 0)
-  • Handheld Run (Count: 1)
-  • Helicopter Escape (Count: 1)
   • Skate Cruise (Count: 0)
   • Skateboard Glide (Count: 0)
   • Skateboard Ollie (Count: 0)
@@ -38,13 +34,9 @@ Low count subcategories: 15
 
 CATEGORY: Commercial
 Total subcategories: 27
-Low count subcategories: 11
+Low count subcategories: 7
 ----------------------------------------
   • Catwalk (Count: 0)
-  • Clone Explosion (Count: 0)
-  • Cotton Cloud (Count: 1)
-  • Outfit Check (Count: 1)
-  • Outfit Switch (Count: 1)
   • Plate Check (Count: 1)
   • Red Carpet (Count: 1)
   • Road Rush (Count: 1)
@@ -284,4 +276,4 @@ SUMMARY
 ====================
 Total categories analyzed: 6
 Categories with low count subcategories: 6
-Total subcategories with 0 or 1 videos: 249
+Total subcategories with 0 or 1 videos: 241
