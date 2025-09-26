@@ -16,84 +16,6 @@ Low count subcategories: 10
   • Tattoo Animation (Count: 0)
   • Trucksition (Count: 1)
 
-CATEGORY: Camera Controls
-Total subcategories: 62
-Low count subcategories: 1
-----------------------------------------
-  • Timelapse Glam (Count: 1)
-
-CATEGORY: UGC
-Total subcategories: 45
-Low count subcategories: 16
-----------------------------------------
-  • Peak Moment (Count: 1)
-  • Pizza Fall (Count: 1)
-  • Plate Check (Count: 1)
-  • Pool Jump (Count: 1)
-  • Saint Glow (Count: 1)
-  • Sand Cut (Count: 1)
-  • Selfie (Count: 1)
-  • Selfie Outfit (Count: 1)
-  • Selfie Posing (Count: 1)
-  • Shocked (Count: 1)
-  • Static Posing (Count: 1)
-  • Sunglasses (Count: 1)
-  • Timelapse Glam (Count: 1)
-  • Timelapse Human (Count: 1)
-  • Train Rush (Count: 1)
-  • Yacht (Count: 1)
-
-CATEGORY: MiniMax Hailuo 02
-Total subcategories: 64
-Low count subcategories: 46
-----------------------------------------
-  • Drunk Master (Count: 0)
-  • Eating (Count: 0)
-  • Eating Zoom (Count: 0)
-  • Exploded View (Count: 0)
-  • Explosion (Count: 0)
-  • Fast Sprint (Count: 0)
-  • Flame On (Count: 0)
-  • Flip (Count: 0)
-  • Gas Transformation (Count: 0)
-  • Glitch (Count: 0)
-  • Glow Trace (Count: 0)
-  • Group Photo (Count: 0)
-  • Handheld Run (Count: 0)
-  • Happy Mode (Count: 0)
-  • Helicopter Escape (Count: 0)
-  • Hero Cam (Count: 0)
-  • Illustration Scene (Count: 0)
-  • Jib down (Count: 0)
-  • Jib up (Count: 0)
-  • Live Concert (Count: 0)
-  • Mirror Selfie (Count: 0)
-  • Money Rain (Count: 0)
-  • Outfit Check (Count: 0)
-  • Point Cloud (Count: 0)
-  • Polygon (Count: 0)
-  • Pool Jump (Count: 0)
-  • Portal (Count: 0)
-  • Rapid Zoom In (Count: 0)
-  • Rapid Zoom Out (Count: 0)
-  • Road Rush (Count: 0)
-  • Selfie (Count: 0)
-  • Selfie Outfit (Count: 0)
-  • Selfie Posing (Count: 0)
-  • Shadow (Count: 0)
-  • Spiders from Mouth (Count: 0)
-  • Static (Count: 0)
-  • Static Posing (Count: 0)
-  • Sunglasses (Count: 0)
-  • Through Object In (Count: 0)
-  • Through Object Out (Count: 0)
-  • Timelapse Glam (Count: 0)
-  • Timelapse Human (Count: 0)
-  • Timelapse Landscape (Count: 0)
-  • Train Rush (Count: 0)
-  • Wireframe (Count: 0)
-  • X-Ray (Count: 0)
-
 CATEGORY: Action Movements
 Total subcategories: 21
 Low count subcategories: 15
@@ -206,23 +128,6 @@ Low count subcategories: 72
   • Werewolf (Count: 0)
   • Wireframe (Count: 0)
   • Wonderland (Count: 0)
-
-CATEGORY: Seedance Pro
-Total subcategories: 25
-Low count subcategories: 12
-----------------------------------------
-  • Oni Mask (Count: 0)
-  • Outfit Check (Count: 0)
-  • Outfit Switch (Count: 0)
-  • Peak Moment (Count: 0)
-  • Plate Check (Count: 0)
-  • Red Carpet (Count: 0)
-  • Sand Cut (Count: 0)
-  • Selfie (Count: 0)
-  • Shocked (Count: 0)
-  • Spirit Animal (Count: 0)
-  • Turning Monkey (Count: 0)
-  • Yacht (Count: 0)
 
 CATEGORY: Viral
 Total subcategories: 53
@@ -377,6 +282,6 @@ Low count subcategories: 100
 
 SUMMARY
 ====================
-Total categories analyzed: 10
-Categories with low count subcategories: 10
-Total subcategories with 0 or 1 videos: 324
+Total categories analyzed: 6
+Categories with low count subcategories: 6
+Total subcategories with 0 or 1 videos: 249
