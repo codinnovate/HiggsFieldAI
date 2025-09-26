@@ -1,6 +1,18 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/kling_motion/a3d2b489-e4ea-42bc-8bd1-06dc10bc0b65.mp4",
-    "prompt": ""
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/9e0bdd7f-46c2-41e6-9200-67416223a6d6.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/6fc7cac0-5bfd-4b43-8c76-9c15b251a131.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/8f0f905a-14c2-4331-b2bd-f4ee1e97d3dd.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/8ecc0c74-5b69-4fa4-bd2b-6aae4e88ab06.mp4",
+    "prompt": "Your browser does not support the video."
   }
 ]

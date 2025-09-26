@@ -1,6 +1,30 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_motion/f2610cd7-7813-450f-8545-4d3a0fe4a6ed.mp4",
-    "prompt": ""
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/f79bf82e-3a6a-4802-b5dd-5edfa9027620.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/f21a288d-a10f-444e-8624-599f656b235f.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/7fe24f73-0a3f-4490-8ee6-1c85d07e93af.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/5f5bd637-c2a7-44c3-885f-5423cfb2fc2e.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/1025794d-72c5-49a9-b08a-011c38811d01.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/b180331b-30d4-4837-9db1-fcc2c54ec6ed.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/minimax_hailuo_sample/bfe9a6c8-b423-4b34-8728-6d058d83525d.mp4",
+    "prompt": "Your browser does not support the video."
   }
 ]
