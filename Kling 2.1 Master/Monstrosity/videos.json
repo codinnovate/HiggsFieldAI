@@ -1,14 +1,20 @@
 [
   {
     "video_url": "https://cdn.higgsfield.ai/kling_video_sample/729d3083-97bf-4fcd-b68d-56ad8c155048.mp4",
-    "prompt": ""
+    "prompt": "",
+    "local_file_path": "/Users/cody/Documents/Codes/HiggsFieldAI/Kling 2.1 Master/Monstrosity/videos/729d3083-97bf-4fcd-b68d-56ad8c155048.mp4",
+    "filename": "729d3083-97bf-4fcd-b68d-56ad8c155048.mp4"
   },
   {
     "video_url": "https://cdn.higgsfield.ai/kling_video_sample/50eee356-2497-4c8f-a7da-90a5e716e235.mp4",
-    "prompt": ""
+    "prompt": "",
+    "local_file_path": "/Users/cody/Documents/Codes/HiggsFieldAI/Kling 2.1 Master/Monstrosity/videos/50eee356-2497-4c8f-a7da-90a5e716e235.mp4",
+    "filename": "50eee356-2497-4c8f-a7da-90a5e716e235.mp4"
   },
   {
     "video_url": "https://cdn.higgsfield.ai/kling_video_sample/f99be84e-b681-420f-87aa-43713f17f05c.mp4",
-    "prompt": ""
+    "prompt": "",
+    "local_file_path": "/Users/cody/Documents/Codes/HiggsFieldAI/Kling 2.1 Master/Monstrosity/videos/f99be84e-b681-420f-87aa-43713f17f05c.mp4",
+    "filename": "f99be84e-b681-420f-87aa-43713f17f05c.mp4"
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/kling_motion/a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4",
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/d0ac4638-b066-4a0f-85a6-15d9485a0230.mp4",
     "prompt": "camera fast motion"
   },
   {
-    "video_url": "https://cdn.higgsfield.ai/kling_motion/a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4",
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/dd6ff37c-e888-449e-a344-0f7bf6f7eea4.mp4",
     "prompt": "camera dolly in"
   }
 ]
