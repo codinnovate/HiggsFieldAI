@@ -1,6 +1,10 @@
 [
   {
-    "video_url": "https://cdn.higgsfield.ai/kling_motion/5ce96e11-d02c-4096-843a-972487971c3c.mp4",
-    "prompt": ""
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/cf9c9837-4383-4edf-898e-7f85b687eea5.mp4",
+    "prompt": "Your browser does not support the video."
+  },
+  {
+    "video_url": "https://cdn.higgsfield.ai/kling_video_sample/777c265b-43f0-4396-8211-d5355bae9a25.mp4",
+    "prompt": "Your browser does not support the video."
   }
 ]
